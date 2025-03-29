@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👋 Hi, I'm Jeff (Mugdho Jeferson Rozario)
 
-<!--
-**mugjeff12/mugjeff12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Engineering Physics Student at McMaster University  
+🧠 Passionate about AI, Automation, and Problem-Solving  
+🚀 Actively building real-world Python apps and learning full-stack development
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 My Skills
+- Python (Automation, OOP, Web Scraping, APIs)
+- Web Development (Flask, Django, Streamlit)
+- Databases (SQLite, MySQL)
+- Version Control (Git & GitHub)
+- Tools: Selenium, BeautifulSoup, Pandas, NumPy, Matplotlib
+
+---
+
+## 🧪 My Projects (from 60-Day Python Mega Course)
+Here’s a glimpse into some real-world projects I’ve built:
+
+| Project | Description | Repo |
+|--------|-------------|------|
+| ✅ Invoice Generator | Excel to PDF automation tool | [GitHub](https://github.com/mugjeff12/Invoice-Maker) |
+| ✅ Weather Dashboard | Real-time data from weather API | [GitHub](https://github.com/mugjeff12/Weather-Dashboard) |
+| ✅ To-do Web App | Flask-based task manager | [GitHub](https://github.com/mugjeff12/Todo-Web-App) |
+
+
+📌 You can explore more projects by visiting my pinned repositories below!
+
+---
+
+## 📫 Let’s Connect
+- 📧 Email: mugdhojeferson@gmail.com  
+- 🌐 Portfolio (coming soon)  
+- 📍 Based in Mississauga, ON
+
+---
+
+
+
