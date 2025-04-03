@@ -23,7 +23,7 @@ Here’s a glimpse into some real-world projects I’ve built:
 | 🔥 Nuclear Heat Transfer Optimization | Simulates heat transfer in a Pressurized Water Reactor (PWR) core using Fourier series & numerical analysis to optimize coolant flow | [GitHub](https://github.com/mugjeff12/Heat-Transfer-Optimization-on-a-Nuclear-Reactor-Core) |
 | ✅ Invoice Generator | Excel to PDF automation tool | [GitHub](https://github.com/mugjeff12/Invoice-Maker) |
 | ✅ Weather Dashboard | Real-time data from weather API | [GitHub](https://github.com/mugjeff12/Weather-Dashboard) |
-| ✅ To-do Web App | Flask-based task manager | [GitHub](https://github.com/mugjeff12/Todo-Web-App) |
+
 
 
 📌 You can explore more projects by visiting my pinned repositories below!
